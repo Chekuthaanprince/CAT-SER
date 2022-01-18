@@ -1,12 +1,12 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+𝐂𝐀𝐓-𝐒𝐄𝐑
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❥ 𝙱𝚈 𝙲𝙷𝙴𝙺𝚄𝚃𝙷𝙰𝙰𝙽 𝙿𝚁𝙸𝙽𝙲𝙴
 
 ##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
+
 <div align="center">
  
 <div align="center">
@@ -18,16 +18,16 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="CAT-SER" src="https://img.shields.io/badge/CAT-SER-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Chekuthaanprince><img title="Author" src="https://img.shields.io/badge/Author-Chekuthaanprince?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Chekuthaanprince">Chekuthaanprince</a>
     <br>
        | © |
         Reserved |
@@ -41,11 +41,11 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-x.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chekuthaanprince/CAT-SER-x.git) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/Taurus-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/CAT-SER-QR)
 
-<a href="https://taurus0.yolasite.com">`TAURUS SITE`</a>
+<a href="https://CAT-SER0.yolasite.com">`CAT-SER SITE`</a>
     <br>
 
 ### The Hard Method
@@ -53,30 +53,30 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
-$ cd Taurus-Bot
+$ git clone https://github.com/Chekuthaanprince/CAT-SER-Bot
+$ cd CAT-SER-Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Taurus.js
+$ node CAT-SER.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
-$ cd Taurus-Bot
+$ git clone https://github.com/Chekuthaanprince/CAT-SER-Bot
+$ cd CAT-SER-Bot
 $ npm i
-$ node Taurus.js
+$ node CAT-SER.js
 ```
 
 ----
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chekuthaanprince&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus.efx?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="taurus.efx" height="45" width="45" /></a>
+<a href="https://instagram.com/CAT-SER.efx?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="CAT-SER.efx" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
@@ -86,9 +86,9 @@ $ node Taurus.js
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chekuthaanprince&show_icons=true&theme=dark&locale=en" alt="Chekuthaanprince" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chekuthaanprince&theme=dark" alt="Chekuthaanprince" /></p>
 </p>
 
 
@@ -110,19 +110,19 @@ $ node Taurus.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
-By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
+Absolutely, CAT-SER-Bot executives do not accept responsibility.
+By establishing the CAT-SER-Bot, you are deemed to have accepted these responsibilities.
 ```
 
-[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/muhammed-usrbot)
+[![CAT-SER](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/Chekuthaanprince)
 
 
 ## Developers 
   <div align="center">
     
-  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![MUHAMMED](https://github.com/Chekuthaanprince.png?size=100)](https://github.com/Chekuthaanprince) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![CAT-SER](https://github.com/CAT-SER-x-toxide.png?size=100)](https://github.com/CAT-SER-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[MUHAMMED](https://github.com/Chekuthaanprince) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [CAT-SER](https://github.com/CAT-SER-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 

@@ -10,7 +10,7 @@
 <div align="center">
  
 <div align="center">
-        <img src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" alt="GIF" width="250" height="250"/>
+        <img src="https://c.tenor.com/CAT-SER.jpg" alt="jpg" width="250" height="250"/>
 </p>
     
     
